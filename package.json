@@ -1,0 +1,26 @@
+{
+  "name": "real-time",
+  "version": "1.0.0",
+  "description": "real time notification using node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakashpaarthipan/real-time.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "socket",
+    "io",
+    "notification"
+  ],
+  "author": "P.Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakashpaarthipan/real-time/issues"
+  },
+  "homepage": "https://github.com/Prakashpaarthipan/real-time#readme"
+}
